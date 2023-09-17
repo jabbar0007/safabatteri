@@ -1,0 +1,90 @@
+.safahead{
+    position: fixed;
+    top: 0; 
+    width: 100%;
+    z-index: 2;
+
+}
+.safah4{
+    margin-left: 2em;
+    color: rgb(112, 112, 3);
+    font-size: 3em;
+    font-weight: 700;
+    font-family:  Verdana, sans-serif;
+    margin-top: 7px;
+}
+.liked{
+    color: black;
+    
+}
+.search-style{
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-color: lightgrey;
+
+}
+.form-control{
+    margin-right: 0px;
+}
+.imgsize{
+    width: 0.8em;
+}
+.btn-stly{
+    background-color: white;
+    border-color:lightgrey;
+
+
+}
+.raiding{
+    height: 25em;
+    max-width:100%;
+}
+.card-photos{
+    width: 17em;
+    height: 10em;
+}
+.container{
+    width: 100%;
+}
+.row{
+    width: 100%;
+    margin: 0%;
+}
+.photos-slid{
+    
+    top: 0; 
+    width: 100%;
+}
+.our{
+    width: 100%;
+}
+.amaraoncard{
+    width: auto;
+    height: 20em;
+}
+.two-cards{
+    width: 35em;
+    height: 20em;
+    margin-top: 2em;
+    margin-left: 2em;
+}
+.two-cards-img{
+    
+    width: 34em;
+    height: 19em;
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+}
+.form-backround{
+    background-color:lightgrey
+}
+.form-align{
+    padding-left:5em;
+    
+}
+.email-style{
+    float: left;
+    margin-right: 3em;
+
+}
+    
